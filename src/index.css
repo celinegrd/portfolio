@@ -1,0 +1,15 @@
+/* @import url("https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap"); */
+
+@import "tailwindcss";
+
+@theme {
+    --font-title: "IM Fell English SC", serif;
+    --font-body: "Poppins", sans-serif;
+}
+
+root {
+    font-family: var(--font-body);
+    line-height: 1.625;
+    color: #1f1f1f;
+}

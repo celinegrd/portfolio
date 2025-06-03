@@ -1,0 +1,114 @@
+{
+    "header": {
+        "title": "Choose Your Character",
+        "greeting": "👋 Hello, I'm Céline Giraud!",
+        "description": "Web developer, big fan of video games and passionate about geek culture. I believe the best way to code is with a little magic and a lot of passion.",
+        "cv": "View my resume",
+        "more": "Learn more"
+    },
+
+    "navbar": {
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+
+    "aboutMe": {
+        "title": "My Story",
+        "intro": "I’ve always had two big passions: cooking and video games.",
+        "origin": "Originally, it was my dream to one day create my own video game that led me to code. But as I explored this universe, I discovered web development… and found not just a springboard, but a true passion.",
+        "experience": "For a long time, I thought working in the video game industry was an unreachable dream, so I chose to thrive in the restaurant world. For 8 years, I learned much more than just recipes: autonomy, organization, stock management, communication, leadership, customer relations… I’ve been a waitress, cook, bartender, maître d', barista, and finally head chef in a café.",
+        "sharing": "What I’ve learned above all is <strong>the importance of sharing</strong>. Sharing skills, experiences (<em>and even mistakes</em>) to move forward together. Personal development is a compass that guides me: learning, listening, self-reflection, evolving.",
+        "reconversion": "After 8 years in the restaurant industry, I took a courage potion and decided to retrain in web and mobile development. I started by exploring this new universe on my own for a year, then completed my training as an Application Designer & Developer at ALT in 2025.",
+        "creativity": "Creative at heart, I love expressing myself through cooking, drawing, writing, photography, video editing… and also through code!",
+        "logic": "And what I love most of all: logic, numbers, and puzzles to solve. Every bug is a challenge to overcome, like a mini-investigation to resolve.",
+        "conclusion": "This mix of creativity and logical thinking made me realize I had found my path.",
+        "closing": "Today, I’m ready to join a team as a full-stack web developer, with solid skills, a strong desire to grow, and always that will to share, learn, and build connections.",
+        "closeBtn": "Close"
+    },
+
+    "skills": {
+        "title": "Skill Tree",
+        "subtitle": "Soft Skills",
+        "items": [
+            {
+                "emoji": "🔓",
+                "title": "Creativity",
+                "detail": "Imagine, design, and bring to life unique ideas and intuitive interfaces"
+            },
+            {
+                "emoji": "🎯",
+                "title": "Intellectual Challenges",
+                "detail": "Solve technical puzzles and explore innovative solutions"
+            },
+            {
+                "emoji": "🤝",
+                "title": "Collaboration",
+                "detail": "Work in teams, share knowledge, and contribute to a positive atmosphere"
+            },
+            {
+                "emoji": "🔄",
+                "title": "Adaptability",
+                "detail": "From food service to tech, always ready to take on new challenges with curiosity and persistence"
+            },
+            {
+                "emoji": "🔍",
+                "title": "Insatiable Curiosity",
+                "detail": "Always seeking new knowledge to keep growing"
+            },
+            {
+                "emoji": "💪",
+                "title": "Determination",
+                "detail": "Every obstacle is an opportunity to learn and improve"
+            }
+        ]
+    },
+
+    "education": {
+        "title": "Education",
+        "items": [
+            {
+                "title": "Application Developer Designer",
+                "school": "Tech Incubator <Alt/>",
+                "year": "2025",
+                "location": "Remote"
+            },
+            {
+                "title": "Advanced Technician Certificate in Hospitality",
+                "school": "Lycée d'Occitanie",
+                "year": "2016",
+                "location": "Toulouse",
+                "optionOne": "Culinary Arts and Table Service Option"
+            },
+            {
+                "title": "French Baccalaureate – Economic and Social track",
+                "school": "Lycée Rive Gauche",
+                "year": "2013",
+                "location": "Toulouse",
+                "optionOne": "Maths Specialisation",
+                "optionTwo": "Optional Cinema & Audiovisual"
+            }
+        ]
+    },
+
+    "projects": {
+        "title": "Projects",
+        "lognest": {
+            "title": "LogNest",
+            "description": "Immersive web application using agile methods, designed for gamers to connect both online and in real life (game management, events, mini-games...), developed as a final project during the Application Developer training.",
+            "tech": "Tech stack:",
+            "button": "View on GitLab"
+        }
+    },
+
+    "contact": {
+        "title": "Contact",
+        "text": "You can contact me by email, LinkedIn or magic owls 🦉"
+    },
+
+    "footer": {
+        "copyright": "© 2025 Céline Giraud — All rights reserved",
+        "lastModified": "Last updated: June 2025"
+    }
+}

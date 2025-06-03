@@ -1,0 +1,114 @@
+{
+    "header": {
+        "title": "Choose Your Character",
+        "greeting": "👋 Hello, moi c'est Céline Giraud !",
+        "description": "Développeuse web, grande amatrice de jeux vidéo et férue de culture geek. Je crois que la meilleure façon de coder, c’est avec un peu de magie et beaucoup de passion.",
+        "cv": "Voir mon CV",
+        "more": "En savoir plus"
+    },
+
+    "navbar": {
+        "about": "À propos",
+        "skills": "Compétences",
+        "projects": "Projets",
+        "contact": "Contact"
+    },
+
+    "aboutMe": {
+        "title": "Mon histoire",
+        "intro": "J’ai toujours eu 2 grandes passions : la cuisine et les jeux vidéo.",
+        "origin": "À l’origine, c’était mon rêve de créer un jour mon propre jeu vidéo qui m’a menée vers le code. Mais en explorant cet univers, j’ai découvert le développement web… et j’y ai trouvé bien plus qu’un tremplin : une véritable passion.",
+        "experience": "Pendant longtemps, je pensais que travailler dans l’univers du jeu vidéo était un rêve inaccessible, alors j’ai choisi de m’épanouir dans la restauration. Pendant 8 ans, j’y ai appris bien plus que des recettes : autonomie, organisation, gestion des stocks, communication, management, relation client… J’ai été serveuse, cuisinière, barmaid, maître d’hôtel, barista, puis cheffe de cuisine dans un café.",
+        "sharing": "Ce que j’ai retenu avant tout : <strong>l’importance du partage</strong>. Partager ses compétences, ses expériences (<em>et même ses erreurs</em>) pour avancer, ensemble. Le développement personnel est une boussole qui m’accompagne partout : apprendre, écouter, se remettre en question, évoluer.",
+        "reconversion": "Après ces 8 années en restauration, j’ai donc pris une potion de courage pour me reconvertir dans le développement web et mobile. J’ai d’abord exploré ce nouvel univers en autodidacte pendant 1 an, puis j’ai validé ma formation de Concepteur Développeur d’Applications chez ALT en 2025.",
+        "creativity": "Créative dans l’âme, j’aime m’exprimer à travers la cuisine, le dessin, l’écriture, la photo, le montage vidéo… mais aussi à travers le code !",
+        "logic": "Et ce que j’aime par-dessus tout : la logique, les chiffres et les énigmes à résoudre. Chaque bug est pour moi un défi à relever, une sorte de mini-enquête à résoudre.",
+        "conclusion": "C’est cette alliance entre créativité et esprit logique qui m’a fait comprendre que j’avais trouvé ma voie.",
+        "closing": "Aujourd’hui, je suis prête à rejoindre une équipe en tant que développeuse web full-stack, avec un bon bagage, une forte envie de progresser, et toujours cette volonté de partager, apprendre et créer du lien.",
+        "closeBtn": "Fermer"
+    },
+
+    "skills": {
+        "title": "Arbre de Compétences",
+        "subtitle": "Soft Skills",
+        "items": [
+            {
+                "emoji": "🔓",
+                "title": "Créativité",
+                "detail": "Imaginer, concevoir et donner vie à des idées uniques et des interfaces intuitives"
+            },
+            {
+                "emoji": "🎯",
+                "title": "Défis intellectuels",
+                "detail": "Résoudre des énigmes techniques et explorer des solutions innovantes"
+            },
+            {
+                "emoji": "🤝",
+                "title": "Collaboration",
+                "detail": "Travailler en équipe, partager des connaissances et contribuer à une ambiance positive"
+            },
+            {
+                "emoji": "🔄",
+                "title": "Adaptabilité",
+                "detail": "De la restauration à la tech, toujours prête à relever de nouveaux défis avec curiosité et persévérance"
+            },
+            {
+                "emoji": "🔍",
+                "title": "Curiosité insatiable",
+                "detail": "Toujours en quête de nouvelles connaissances pour continuer à progresser"
+            },
+            {
+                "emoji": "💪",
+                "title": "Détermination",
+                "detail": "Chaque obstacle est une opportunité d’apprendre et de s’améliorer"
+            }
+        ]
+    },
+
+    "education": {
+        "title": "Formation",
+        "items": [
+            {
+                "title": "Concepteur Développeur d’Applications",
+                "school": "Incubateur Tech <Alt/>",
+                "year": "2025",
+                "location": "À distance"
+            },
+            {
+                "title": "BTS Hôtellerie-Restauration",
+                "school": "Lycée d'Occitanie",
+                "year": "2016",
+                "location": "Toulouse",
+                "optionOne": "Option Arts culinaires et Services de la table"
+            },
+            {
+                "title": "Baccalauréat série ES",
+                "school": "Lycée Rive Gauche",
+                "year": "2013",
+                "location": "Toulouse",
+                "optionOne": "Spécialité Mathématiques",
+                "optionTwo": "Option facultative Cinéma Audiovisuel"
+            }
+        ]
+    },
+
+    "projects": {
+        "title": "Projets",
+        "lognest": {
+            "title": "LogNest",
+            "description": "Application web immersive en méthode agile destinée aux gamers afin de les connecter aussi bien en ligne que dans la vraie vie (gestion de jeux, d'évènements, mini-jeux..), réalisée en fin de formation Concepteur Développeur d’Applications.",
+            "tech": "Stack technique :",
+            "button": "Voir sur GitLab"
+        }
+    },
+
+    "contact": {
+        "title": "Contact",
+        "text": "Vous pouvez me joindre par mail, LinkedIn ou hiboux magiques 🦉"
+    },
+
+    "footer": {
+        "copyright": "© 2025 Céline Giraud — Tous droits réservés",
+        "lastModified": "Dernière modification : Juin 2025"
+    }
+}
