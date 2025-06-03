@@ -20,7 +20,8 @@ build_job:
 pages:
     stage: deploy
     script:
-        - mv dist public
+        - rm -rf public # on enlève le dossier public s’il existe déjà, pour éviter les conflits
+        - cp -r dist public # copie le build dans public
     artifacts:
         paths:
             - public
